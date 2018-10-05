@@ -1,0 +1,19 @@
+{
+  "name": "awesome-interfaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ittakesaslongasittakes/awesome-interfaces.git"
+  },
+  "author": "ittakesaslongasittakes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ittakesaslongasittakes/awesome-interfaces/issues"
+  },
+  "homepage": "https://github.com/ittakesaslongasittakes/awesome-interfaces#readme"
+}
